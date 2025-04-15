@@ -47,6 +47,6 @@ See link for its components (https://github.com/RonLlave/Dental-Office-Online-Sc
 
 
 # Additional Notes
-Remarks: Didn't make it to have a 5 minute video since I ran out of time for the submission date.
+Remarks: Didn't make it to have a 5 minute video since I ran out of time for the submission date. And I have fun to create this project and a lot of learnings!
 
 Job Assessment answered by: Ron Cymond Llave (roncymondllave25@gmail.com)
