@@ -13,7 +13,7 @@ Notifications: React Toastify
 
 Data Fetching: Axios
 
-###Components
+### Components
 
 Home.jsx: Shows clinic info and services.
 
@@ -44,5 +44,9 @@ Authentication: bcrypt for password hashing (commented for easy debugging), JWT 
 API Architecture: RESTful APIs
 
 See link for its components (https://github.com/RonLlave/Dental-Office-Online-Scheduling-System-Backend)
+
+
+# Additional Notes
+Remarks: Didn't make it to have a 5 minute video since I ran out of time for the submission date.
 
 Job Assessment answered by: Ron Cymond Llave (roncymondllave25@gmail.com)
